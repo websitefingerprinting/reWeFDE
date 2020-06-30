@@ -1,3 +1,5 @@
 .idea/
 *.mex*
 venv/
+script.sh
+results

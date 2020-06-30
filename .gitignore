@@ -3,3 +3,4 @@
 venv/
 script.sh
 results
+graphing/__pycache__

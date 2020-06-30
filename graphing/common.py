@@ -49,8 +49,13 @@ COLORS = [
     'yellow',
     'olive',
     'orange',
-    'violet'
+    'violet',
     'teal',
+    'brown',
+    'pink',
+    'gray',
+    'aqua',
+    'darkgreen'
 ]
 """
 Ordered list of colors to use when graphing.

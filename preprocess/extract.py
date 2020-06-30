@@ -18,7 +18,7 @@ from util import FEATURE_EXT, NORMALIZE_TRAFFIC, PACKET_NUMBER, PKT_TIME, UNIQUE
     PKT_PER_SECOND, INTERVAL_KNN, INTERVAL_ICICS, INTERVAL_WPES11, howlong, featureCount
 
 
-def enumerate_files(dir, splitter='-', extension=''):
+def enumerate_files(dir, splitter='-', extension='.cell'):
     """
     recursively enumerate files in a directory root
     """
